@@ -1,0 +1,49 @@
+# README – Part 2  
+
+## Project Title  
+*Personal/Student Website Project*  
+
+## Student Information  
+-Name: Kushiv Singh
+-Student Number: ST10488677
+-Submission Date: 23/09/25
+
+# Project Overview  
+This is a multi-part website project.  
+-Part 1: Built the basic HTML structure (Home, About, Contact, Enquiry).  
+-Part 2: Added CSS for styling, layout, and responsiveness.  
+-Part 3 (future): Will add interactivity with JavaScript.  
+
+# Goals and Objectives  
+-Create a clean, user-friendly design.  
+-Ensure mobile responsiveness.  
+-Maintain consistency across all pages.  
+
+# Key Features  
+-External stylesheet (`style.css`)  
+-Navigation bar with hover effects  
+-Styled forms (Contact & Enquiry)  
+-Responsive layout  
+
+# Timeline  
+-Part 1: HTML complete  
+-Part 2: CSS styling complete  
+-Part 3: To be developed  
+
+---
+
+# Sitemap  
+
+Home
+├── About
+├── Contact
+└── Enquiry
+
+## Changelog  
+- Added CSS styling (colors, fonts, layout)  
+- Improved navigation and forms  
+- Responsive design applied  
+
+# References  
+-W3Schools. (2024). HTML & CSS Tutorials. https://www.w3schools.com/  
+-MDN Web Docs. (2024). CSS. https://developer.mozilla.org/en-US/docs/Web/CSS  
